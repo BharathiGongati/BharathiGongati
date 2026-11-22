@@ -84,10 +84,10 @@ I enjoy transforming business requirements into practical software solutions usi
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 💼 LinkedIn: https://www.linkedin.com/in/bharathi-gongati-773079253
+- 📧 Email: bharathigongati7@gmail.com
+- 💻 GitHub: https://https://github.com/BharathiGongati
+- 🌐 Portfolio: NA
 
 ---
 
