@@ -80,7 +80,7 @@ I enjoy transforming business requirements into practical software solutions usi
 - 💼 LinkedIn: https://www.linkedin.com/in/bharathi-gongati-773079253
 - 📧 Email: bharathigongati7@gmail.com
 - 💻 GitHub: https://github.com/BharathiGongati
-- 🌐 Portfolio: NA
+- 🌐 Portfolio: https://bharathigongati.github.io/react-project-01/
 
 ---
 
